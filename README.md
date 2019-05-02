@@ -2,8 +2,7 @@
 
 # Azure DevOps 배포 샘플 장고 프로젝트 - update
 
-Ask Company
 
-+ https://askcompany.kr
-+ me@askcompany.kr
+*app bake house
+http://www.softwarebake.com/
 
